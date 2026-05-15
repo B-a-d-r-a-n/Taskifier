@@ -1,0 +1,43 @@
+# Dependencies
+node_modules
+.pnp
+.pnp.js
+
+# Build outputs
+dist
+.next
+expo-env.d.ts
+generated
+# Local env files
+.env
+.env.*
+!.env.example
+
+# Testing
+coverage
+
+# macOS
+.DS_Store
+
+# Miscellaneous
+.turbo
+*.log
+
+__pycache__/
+*.pyc
+
+# Python virtual env
+.venv/
+
+# IDE
+.vscode/
+.idea/
+
+# TypeScript
+*.tsbuildinfo
+
+# Expo
+.expo/
+
+# Local env overrides
+*.env.local
