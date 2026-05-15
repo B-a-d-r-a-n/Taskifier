@@ -2,6 +2,8 @@
 
 A collaborative task management app with real-time team sync, AI-powered task suggestions, and interactive calendar views.
 
+https://deepwiki.com/B-a-d-r-a-n/Taskifier
+
 ## Features
 
 - **Task management** — Create, assign, prioritize, and track tasks across teams
